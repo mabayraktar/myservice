@@ -20,7 +20,7 @@ namespace MyService
         [WebMethod]
         public string HelloWorld()
         {
-            return "Hello My Old World";
+            return "Hello My very Old World";
         }
     }
 }
